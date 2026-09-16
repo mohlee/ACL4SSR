@@ -1,0 +1,16 @@
+# 内容：蜜桃原创广场舞直连
+# 数量：11 条
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,tiaowu.moe
+DOMAIN-SUFFIX,842698.xyz
+DOMAIN-SUFFIX,annyeong.club
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,43.160.128.0/18,no-resolve
+IP-CIDR,43.152.0.0/13,no-resolve
+
+
+
